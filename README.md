@@ -23,4 +23,4 @@ Some languages and tools I am playing with:
 
 
 [!["Followers"](https://img.shields.io/github/followers/apaardahal?label=Follow&style=social)](https://github.com/apaardahal)
-![Profile views](https://gpvc.arturio.dev/apaardahal) 
+![Profile views](https://gpvc.arturio.dev/dahalapaar) 
