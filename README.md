@@ -22,5 +22,5 @@ Some languages and tools I am playing with:
 !["MongoDB"](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-[!["Followers"](https://img.shields.io/github/followers/apaardahal?label=Follow&style=social)](https://github.com/apaardahal)
+[!["Followers"](https://img.shields.io/github/followers/apaardahal?label=Follow&style=social)](https://github.com/dahalapaar)
 ![Profile views](https://gpvc.arturio.dev/dahalapaar) 
