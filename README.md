@@ -1,7 +1,6 @@
 ### Hi there, this is Apaar Dahal👋
 
 
-- 🔭 I’m currently working at Seriea Tech and
 - 🌱 I’m currently learning MERN Stack
 
 Some languages and tools I am playing with:
